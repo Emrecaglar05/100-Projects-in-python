@@ -13,10 +13,10 @@ Bu repo, Udemy'deki **Python Ustalığı: 100 Gün, 100 Proje** kursunun pro
 
 | Gün | Proje Adı | Açıklama | Klasör |
 |----:|-----------|----------|--------|
-| 01 | ⏳ Countdown Timer | Belirli sürede geri sayım yapan basit sayaç | [proje01-countdown-timer](proje01-countdown-timer) |
-| 02 | 🎲 Math Quiz | 5 saniyelik süreli temel matematik oyunu | [proje02-math-quiz](proje02-math-quiz) |
-| 03 | 🛒 Alışveriş Listesi | Kullanıcının ekleyip çıkartabildiği basit alışveriş listesi | [proje03-shopping-list](proje03-shopping-list) |
-| 04 | 📇 Kişi Rehberi | İsim, telefon gibi bilgileri saklayan küçük bir rehber uygulaması | [proje04-contact-book](proje04-contact-book) |
+| 01 | ⏳ Countdown Timer | Belirli sürede geri sayım yapan basit sayaç 
+| 02 | 🎲 Math Quiz | 5 saniyelik süreli temel matematik oyunu 
+| 03 | 🛒 Alışveriş Listesi | Kullanıcının ekleyip çıkartabildiği basit alışveriş listesi 
+| 04 | 📇 Kişi Rehberi | İsim, telefon gibi bilgileri saklayan küçük bir rehber uygulaması 
 
 
 ...  
@@ -30,7 +30,3 @@ Bu repo, Udemy'deki **Python Ustalığı: 100 Gün, 100 Proje** kursunun pro
 
 ---
 
-## ℹ️ Nasıl Başlanır?
-1. Repo’yu klonla:
-   ```bash
-   git clone https://github.com/kullanici/python-100-gun-100-proje.git
